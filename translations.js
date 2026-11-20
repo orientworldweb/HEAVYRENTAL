@@ -10,7 +10,7 @@
 window.OW_AR = {
   whatsappMessage: "مرحباً أورينت وورلد، أودّ معرفة المزيد عن شركتكم ومعداتكم، كما أرغب في حجز طلب.",
   text: {
-    "Orient World — Construction Equipment Rental, UAE": "أورينت وورلد — تأجير معدات البناء في الإمارات",
+    "Heavy Rental — Construction Equipment Rental, UAE": "تورينت وورلد — تأجير معدات البناء في الإمارات",
     "Fleet": "الأسطول",
     "Gallery": "المعرض",
     "About": "من نحن",
@@ -18,9 +18,9 @@ window.OW_AR = {
     "Why Us": "لماذا نحن",
     "Contact": "تواصل معنا",
     "Request a Quote": "اطلب عرض سعر",
-    "Orient World Construction Equipment Trading & Rental L.L.C.": "أورينت وورلد لتجارة وتأجير معدات البناء ذ.م.م",
+    "Heavy Rental Construction Equipment Trading & Rental L.L.C.": "تورينت وورلد لتجارة وتأجير معدات البناء ذ.م.م",
     "Machines on site when your schedule needs them.": "معدات جاهزة في موقعك في الوقت الذي تحتاجه.",
-    "Since 2017, Orient World has supplied excavators, cranes, loaders and heavy machinery to major contractors across the UAE — with operators, transport and maintenance handled in-house.": "منذ عام 2017، توفّر أورينت وورلد الحفارات والكرينات واللودرات والمعدات الثقيلة لكبرى شركات المقاولات في الإمارات — مع المشغّلين والنقل والصيانة من خلال فريقنا الخاص.",
+    "Since 2017, Heavy Rental has supplied excavators, cranes, loaders and heavy machinery to major contractors across the UAE — with operators, transport and maintenance handled in-house.": "منذ عام 2017، توفّر تورينت وورلد الحفارات والكرينات واللودرات والمعدات الثقيلة لكبرى شركات المقاولات في الإمارات — مع المشغّلين والنقل والصيانة من خلال فريقنا الخاص.",
     "Browse the Fleet": "تصفّح الأسطول",
     "Founded in the UAE": "تأسست في الإمارات",
     "Projects completed": "مشروع منجز",

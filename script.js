@@ -1,5 +1,5 @@
 /* ==========================================================================
-   ORIENT WORLD — site behavior
+   HEAVY RENTAL — site behavior
    1. Mobile menu toggle
    2. Scroll-reveal animation for .reveal elements
    3. Quote form submit handler (currently just shows an alert —
@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
        remembers the choice, and also updates the WhatsApp message and the map.
      ========================================================================== */
   const AR = window.OW_AR || { text: {}, whatsappMessage: '' };
-  const WA_MESSAGE_EN = 'Hello Orient World, I would like to know more about your company and your equipment. I also want to book an order.';
+  const WA_MESSAGE_EN = 'Hello HEAVY RENTAL, I would like to know more about your company and your equipment. I also want to book an order.';
   let lang = 'en';
   try { if (localStorage.getItem('ow_lang') === 'ar') lang = 'ar'; } catch (e) {}
   const isAr = () => lang === 'ar';

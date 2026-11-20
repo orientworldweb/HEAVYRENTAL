@@ -1,5 +1,5 @@
 /* ==========================================================================
-   ORIENT WORLD — Construction Equipment Rental, UAE
+   HEAVY RENTAL — Construction Equipment Rental, UAE
    Stylesheet. Sections are labeled so you can jump straight to what
    you want to change. Colors and fonts are set once at the top under
    :root — edit them there and the whole site updates.
@@ -1085,7 +1085,7 @@ html[lang="ar"] *{letter-spacing:0 !important; text-transform:none !important;}
 
 /* Mirror the things that point or slide in one direction */
 html[dir="rtl"]{--hero-angle:260deg;}   /* darkens the right side, where Arabic text sits */
-html[dir="rtl"] .logo{direction:ltr; transform-origin:right center;}   /* keep "ORIENT WORLD" in its normal order */
+html[dir="rtl"] .logo{direction:ltr; transform-origin:right center;}   /* keep "HEAVY RENTAL" in its normal order */
 html[dir="rtl"] .nav-links a::after{transform-origin:right;}
 html[dir="rtl"] .marquee-track{animation-name:scrollRtl;}
 @keyframes scrollRtl{
